@@ -1,8 +1,8 @@
 # FriendshipAdder
-#Currently in beta
-#Created for Windows using Netbeans
+Currently in beta\n
+Created for Windows using Netbeans\n
 
-#Keep track of your friends and their interests
+Keep track of your friends and their interests
 #Record and view the following information
 #Name
 #Gender
