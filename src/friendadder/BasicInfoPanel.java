@@ -182,27 +182,51 @@ public class BasicInfoPanel extends javax.swing.JPanel {
         switch (birthMonth.getText()) {
             case "January":
                 return 1;
+            case "january":
+                return 1;
             case "February":
+                return 2;
+            case "february":
                 return 2;
             case "March":
                 return 3;
+            case "march":
+                return 3;
             case "April":
+                return 4;
+            case "april":
                 return 4;
             case "May":
                 return 5;
+            case "may":
+                return 5;
+            case "June":
+                return 6;
             case "june":
                 return 6;
             case "July":
                 return 7;
+            case "july":
+                return 7;
             case "August":
+                return 8;
+            case "august":
                 return 8;
             case "September":
                 return 9;
+            case "september":
+                return 9;
             case "October":
+                return 10;
+            case "october":
                 return 10;
             case "November":
                 return 11;
+            case "november":
+                return 11;
             case "December":
+                return 12;
+            case "december":
                 return 12;
             default:
                 return 1;
